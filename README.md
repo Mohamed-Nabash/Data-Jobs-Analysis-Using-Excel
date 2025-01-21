@@ -166,6 +166,9 @@ To customize the chart, I added a title axis title, removed the lines (skill lik
 
 ![](/assets/analysis_4.PNG)
 
+![image](https://github.com/user-attachments/assets/8c325239-1173-486a-b702-6353c1df7b7a)
+
+
 ## **Conclusion**
 
 As a job seeker I did this project to help me gain some insights into the job market in data. Using data from real-world job postings, I analyzed salaries, locations, job titles, and essential skills. By leveraging Excel features like Power Query, PivotTables, DAX, and charts, I discovered key correlations between multiple skills and higher salaries.
